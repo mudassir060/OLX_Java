@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         set_password.setText("Your Password is: " +editText_password.getText().toString());
     }
     public void OpenSignup(View view){
-        Intent  intent =new Intent(this,Signup_activity.class);
+        Intent  intent =new Intent(this,BottomNavigationActivity.class);
         startActivity(intent);
     }
     public void SignIn(View view){
@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
 //            Intent  intent =new Intent(this,Signup_activity.class);
 //            startActivity(intent);
 //        }else {
-            Intent  intent =new Intent(this,BottomNavigationActivity.class);
+            Intent  intent =new Intent(this,ProfileActivity.class);
             startActivity(intent);
 //        }
     }

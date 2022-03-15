@@ -12,10 +12,15 @@
         <entry key="..\:/Users/mudas/AndroidStudioProjects/Login/app/src/main/res/layout/activity_bottom_navigation.xml" value="0.278125" />
         <entry key="..\:/Users/mudas/AndroidStudioProjects/Login/app/src/main/res/layout/activity_home.xml" value="0.2574074074074074" />
         <entry key="..\:/Users/mudas/AndroidStudioProjects/Login/app/src/main/res/layout/activity_main.xml" value="0.27445652173913043" />
+        <entry key="..\:/Users/mudas/AndroidStudioProjects/Login/app/src/main/res/layout/activity_profile.xml" value="0.278125" />
         <entry key="..\:/Users/mudas/AndroidStudioProjects/Login/app/src/main/res/layout/activity_signin.xml" value="0.278125" />
         <entry key="..\:/Users/mudas/AndroidStudioProjects/Login/app/src/main/res/layout/activity_signup.xml" value="0.278125" />
         <entry key="..\:/Users/mudas/AndroidStudioProjects/Login/app/src/main/res/layout/content_home.xml" value="0.278125" />
+        <entry key="..\:/Users/mudas/AndroidStudioProjects/Login/app/src/main/res/layout/content_profile.xml" value="0.190625" />
+        <entry key="..\:/Users/mudas/AndroidStudioProjects/Login/app/src/main/res/layout/fragment_dashboard.xml" value="0.278125" />
         <entry key="..\:/Users/mudas/AndroidStudioProjects/Login/app/src/main/res/layout/fragment_first.xml" value="0.278125" />
+        <entry key="..\:/Users/mudas/AndroidStudioProjects/Login/app/src/main/res/layout/fragment_home.xml" value="0.278125" />
+        <entry key="..\:/Users/mudas/AndroidStudioProjects/Login/app/src/main/res/layout/fragment_notifications.xml" value="0.278125" />
         <entry key="..\:/Users/mudas/AndroidStudioProjects/Login/app/src/main/res/layout/fragment_second.xml" value="0.278125" />
       </map>
     </option>
